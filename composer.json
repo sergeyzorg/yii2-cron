@@ -17,5 +17,11 @@
         "psr-4": {
             "sergeyzorg\\cron\\": ""
         }
+    },
+    "repositories":[
+    {
+        "type": "git",
+        "url": "https://github.com/sergeyzorg/yii2-cron"
     }
+]
 }
