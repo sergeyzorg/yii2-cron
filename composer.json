@@ -22,7 +22,7 @@
     "repositories":[
     {
         "type": "vcs",
-        "url": "https://github.com/sergeyzorg/yii2-cron"
+        "url": "https://github.com/sergeyzorg/yii2-cron.git"
     }
 ]
 }
